@@ -18,7 +18,7 @@ class StudentDesks {
          int c3d = c3s%2 + c3s/2;
          int totalDesks = c1d + c2d + c3d;
 
-         System.out.println(totalDesks);
+         System.out.print(totalDesks);
 
 
           // closing the scanner object
